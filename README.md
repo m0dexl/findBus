@@ -16,3 +16,9 @@ $ npm start
 
 * Download Expo Go to your phone.
 * After starting the project, use Expo Go QR scanner to run this project on your phone!
+
+
+## Examples
+
+Istanbul to Izmir in 15/07/2023
+Istanbul to Ankara in 15/07/2023
